@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="ticket" verbose="1">
+    <test name="ticketServiceRegistrationPositiveTest">
+        <classes>
+
+            <class name="demoqa.TicketServiceRegistrWithParametersTest">
+
+                <parameter  name="name" value="John3"/>
+                <parameter  name="surName" value="Smith3"/>
+                <parameter  name="email" value="email3@gmail.com"/>
+                <parameter  name="password" value="Qwerty123"/>
+                <parameter  name="phone" value="+1234566690"/>
+            </class>
+        </classes>
+    </test>
+</suite>

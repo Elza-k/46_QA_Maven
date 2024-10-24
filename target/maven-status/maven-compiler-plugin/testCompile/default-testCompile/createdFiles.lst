@@ -9,3 +9,4 @@ demoqa\core\TestBase.class
 demoqa\book_store\SearchBookTests.class
 demoqa\alerts_frame_windows\AlertsTests.class
 demoqa\elements\BrokenLinksImagesTests.class
+demoqa\TicketServiceRegistrWithParametersTest.class

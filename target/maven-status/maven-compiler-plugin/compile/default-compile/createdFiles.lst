@@ -1,4 +1,5 @@
 demoqa\pages\ButtonsPage.class
+demoqa\pages\TicketServiseRegistrationPage.class
 demoqa\pages\WidgetsPage.class
 demoqa\pages\BrockenLinksImagesPage.class
 demoqa\core\ApplicationManager.class
